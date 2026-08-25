@@ -1,4 +1,6 @@
 Power BI Sales Dashboard
+![Power BI Sales Dashboard]
+(PowerBI%20dashboards.png)
 
 📊 Project Overview
 
