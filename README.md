@@ -1,7 +1,7 @@
 # Power BI Sales Dashboard
 
 ![Power BI Sales Dashboard]
-(PowerBI%20dashboard.png)
+(PowerBI_Dashboard.png)
 
 📊 Project Overview
 
