@@ -55,3 +55,14 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Python
 ## 🎯 Project Objective
 
 The objective of this project is to analyze sales data using Power BI and provide meaningful business insights through interactive dashboards and visualizations.
+
+## ✨ Dashboard Features
+
+- Interactive sales performance dashboard
+- Regional and state-wise sales analysis
+- Sales, orders, profit and discount KPIs
+- Interactive filters and slicers
+- Data cleaning and transformation using Power Query
+- DAX measures for business analysis
+- Visual analysis using charts and graphs
+
