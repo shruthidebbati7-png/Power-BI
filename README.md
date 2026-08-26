@@ -41,3 +41,17 @@ The objective of this project is to transform raw sales data into an interactive
 Shruthi Debbati
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
+## 📊 Key Insights
+
+- Total Sales: 341.01K
+- Total Orders: 5K
+- Total Profit: 27.45K
+- Average Discount: 3.93
+- Analyzed sales performance across different regions and states.
+- Identified trends in sales, profit, and product performance.
+- Used interactive filters to compare regional sales performance.
+
+## 🎯 Project Objective
+
+The objective of this project is to analyze sales data using Power BI and provide meaningful business insights through interactive dashboards and visualizations.
